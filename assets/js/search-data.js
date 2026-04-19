@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-crosswords",
+          title: "crosswords",
+          description: "Crosswords I&#39;ve made for lab events. Shared theme, Cross References.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/crosswords/";
+          },
         },{id: "post-paper-trail",
         
           title: "Paper Trail",
