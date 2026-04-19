@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://philipmadamson.com/sitemap.xml
